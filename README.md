@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile badges]([https://www.codewars.com/users/GabriellaMar/badges/small](https://www.codewars.com/users/Illia-Shatokhin/badges/large))
+![Profile badges](https://www.codewars.com/users/Illia-Shatokhin/badges/large)
 
 <!--
 **Illia-Shatokhin/Illia-Shatokhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
